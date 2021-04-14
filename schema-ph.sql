@@ -59,3 +59,6 @@ SELECT * FROM dept_manager;
 SELECT * FROM employees;
 SELECT * FROM dept_emp;
 SELECT * FROM titles;
+
+--Drop and recreate tables to work around errors
+DROP TABLE dept_manager CASCADE;
