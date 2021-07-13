@@ -1,4 +1,4 @@
-# Pewlett-Hackard-Analysis
+# SQL Pewlett Hackard Retirement Analysis
 ## Overview of the Analysis
 Use SQL to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. Then, create a report that summarizes the analysis and helps to prepare for the “silver tsunami” as many current employees reach retirement age.
 
